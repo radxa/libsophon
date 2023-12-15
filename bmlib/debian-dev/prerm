@@ -1,1 +1,9 @@
 rm -rf /usr/lib/cmake/libsophon
+
+rm -rf /opt/sophon/libsophon-current/lib/libbmrt.so.1.0
+rm -rf /opt/sophon/libsophon-current/lib/libbmcv.so.0
+rm -rf /opt/sophon/libsophon-current/lib/libbmvideo.so.0
+rm -rf /opt/sophon/libsophon-current/lib/libbmvpuapi.so.0
+rm -rf /opt/sophon/libsophon-current/lib/libbmvpulite.so.0
+rm -rf /opt/sophon/libsophon-current/lib/libyuv.so.0
+rm -rf /opt/sophon/libsophon-current/lib/libbmion.so.0
